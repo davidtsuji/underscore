@@ -1,0 +1,13 @@
+{
+  "name": "underscore",
+  "repo": "documentcloud/underscore",
+  "description": "Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects.",
+  "version": "1.4.4",
+  "dependencies": {
+  },
+  "keywords": [ ],
+  "main": "underscore.js",
+  "scripts": [
+    "underscore.js"
+  ]
+}
